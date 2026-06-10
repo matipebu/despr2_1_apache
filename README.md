@@ -12,7 +12,7 @@ En esta actividad instalaremos y desplegaremos nuestra web sobre **Apache2**.
 ## 1. Preparación de la máquina
 Hacemos un **clon enlazado** de la máquina proporcionada para hacer el ejercicio.
 <img width="1004" height="65" alt="image" src="https://github.com/user-attachments/assets/e31fb2b5-791e-4b2b-a540-2c8f66649158" />
-
++
 
 ### 1.1 Configuración de la red
 - Configuramos la **redirección de puertos**:
